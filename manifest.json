@@ -17,7 +17,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.amzreviewtrader.com/product-list.php/*"],
-      "js": ["content.js", "jquery-2.2.2.min.js"]
+      "js": ["jquery-2.2.2.min.js", "content.js"]
     }
   ]
 
